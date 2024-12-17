@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- :book: Завершил курсы по Data Science+ от [Яндекс Практикум](https://practicum.yandex.ru/data-scientist-plus/?utm_source=partners&utm_medium=ratingoff&utm_campaign=partners_ratingoff_data-scientist-plus)
 <!--
 **ozerge/ozerge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
