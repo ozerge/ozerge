@@ -6,8 +6,8 @@
 
 | Название | Форма обучения | Сертификат |
 | :--- | :---: | :---: |
-| [Яндекс. Практикум DataScience+](https://practicum.yandex.ru/profile/data-scientist-plus/) | Дистанционная | [Сертификат](https://github.com/ozerge/certificates/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU_%D0%9B%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B9_2024-4858-018.pdf)/ [Certificate](https://github.com/ozerge/certificates/blob/main/%D0%A1ertificate_ENG_%D0%9B%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B9_2024-4858-018.pdf) |
-| [Яндекс. Y&&Y Machine Learning](https://yandex.ru/yaintern/training/ml-training) | Дистанционная | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/Young&&Yandex.pdf) |
+| [Яндекс Практикум DataScience+](https://practicum.yandex.ru/data-scientist-plus/?utm_source=partners&utm_medium=ratingoff&utm_campaign=partners_ratingoff_data-scientist-plus) | Дистанционная | [Сертификат](https://github.com/ozerge/certificates/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU_%D0%9B%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B9_2024-4858-018.pdf) / [Certificate](https://github.com/ozerge/certificates/blob/main/%D0%A1ertificate_ENG_%D0%9B%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B9_2024-4858-018.pdf) |
+| [KARPOV.COURSES Анализ данных на SQL](https://karpov.courses/simulator-sql) | Дистанционная | [Сертификат](https://github.com/ozerge/certificates/blob/main/Karpov_ru.pdf) / [Certificate](https://github.com/ozerge/certificates/blob/main/Karpov_en.pdf) |
 <!--
 **ozerge/ozerge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
