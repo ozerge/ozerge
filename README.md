@@ -27,7 +27,7 @@
 </a> <a href="https://lightgbm.readthedocs.io/en/latest/Python-Intro.html" target="_blank" rel="noreferrer"> 
 <img src="https://lightgbm.readthedocs.io/en/stable/_images/LightGBM_logo_black_text.svg" title="Lightgbm" alt="lightgbm" width="80" height="40"/>
 </a> <a href="https://xgboost.ai" target="_blank" rel="noreferrer"> 
-<img src="https://xgboost.ai/images/logo/xgboost-logo-trimmed.png" title="XGBoost" alt="XGBoost" width="80" height="40"/>
+<img src="https://xgboost.ai/images/logo/xgboost-logo-trimmed.png" title="XGBoost" alt="XGBoost" width="100" height="40"/>
 </a> <a href="https://jupyter.org" target="_blank" rel="noreferrer"> 
 <img src="https://jupyter.org/assets/homepage/main-logo.svg" title="XGBoost" title="Jupyter" alt="Jupyter" width="40" height="40"/>
 
