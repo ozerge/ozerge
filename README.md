@@ -22,7 +22,15 @@
 
 </a> <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/>
-</a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+</a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+
+</a> <a href="https://catboost.ai" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catboost" width="40" height="40"/>
+
+</a> <a href="https://lightgbm.readthedocs.io/en/latest/Python-Intro.html" target="_blank" rel="noreferrer"> 
+<img src="https://lightgbm.readthedocs.io/en/stable/_images/LightGBM_logo_black_text.svg" alt="lightgbm" width="60" height="80"/>
+
+</a> </p>
 
 ## Курсы
 
