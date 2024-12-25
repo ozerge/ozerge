@@ -59,9 +59,15 @@
       </tr>
       <tr>
 	<td>2</td>
-	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/01_Analytics/02_credit_scoring.ipynb">Исследование надежности заемщиков</a></td>
+	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/01_Analytics/02_credit_scoring.ipynb">Анализ банковских данных - исследование надежности заемщиков</a></td>
 	<td><tt>Python</tt>, <tt>Pandas</tt></td>
-	<td>Заказчик — кредитный отдел банка. Разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов..</td>
+	<td>Заказчик — кредитный отдел банка. На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок.</td>
+      </tr>
+      <tr>
+  	<td>3</td>
+    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/01_Analytics/03_real_estate_mrkt_research.ipynb">Анализ рынка недвижимости - продажа квартир в Санкт-Петербурге</a></td>
+  	<td><tt>Python</tt>, <tt>Pandas</tt>, <tt>Matplotlib</tt></tt></td>
+  	<td>Необходимо научиться определять рыночную стоимость объектов недвижимости, и выявить параметры, которые на это влияют. Это позволит построить автоматизированную систему отслеживания аномалий и мошеннической деятельности для сервиса <a href = "https://realty.ya.ru/sankt-peterburg_i_leningradskaya_oblast/">Яндекс Недвижимость</a>.</td>
       </tr>
 	    
     </table>
