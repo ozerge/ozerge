@@ -83,22 +83,3 @@
       </tr>
     </table>
 </details>
-
-<details close>
-  <summary>Статистика</summary>
-    <table>
-      <tr>
-  	<th>№</th>
-        <th>Название проекта</th>
-	<th>Библиотеки/Инструменты</th>
-  	<th>Описание</th>
-      </tr> 
-      <tr>
-  	<td>1</td>
-    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/02_Statystic/05_scooter_rental_service_GoFast.ipynb">Анализ данных сервиса аренды самокатов</a></td>
-	<td><tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Matplotlib</tt>, <tt>Scipy</tt></td>
-	<td>На основе информации, собранной популярным сервисом аренды самокатов "GoFast" о некоторых пользователях из нескольких городов, а также об их поездках провести подготовку и  анализ данных для проверки гипотез, которые могут помочь бизнесу вырасти.</td>
-      </tr>   
-    </table>
-</details>
-
