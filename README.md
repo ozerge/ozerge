@@ -43,7 +43,7 @@
 ## Проекты DS+
 
 <details close>
-  <summary>Аналитика</summary>
+  <summary>Аналитика и статистика</summary>
     <table>
       <tr>
   	<th>№</th>
@@ -74,7 +74,13 @@
 	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/01_Analytics/04_cinema_distribution_research.ipynb">Исследование рынка российского кинопроката</a></td>
 	<td><tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Matplotlib</tt>, <tt>Seaborn</tt></td>
 	<td>Изучить рынок российского кинопроката и выявить текущие тренды. Также отдельно проанализировать информацию по фильмам, которые получили государственную поддержку и ответить на вопрос, насколько такие фильмы интересны зрителю.</td>
-      </tr>    
+      </tr>
+      <tr>
+  	<td>5</td>
+    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/02_Statystic/05_scooter_rental_service_GoFast.ipynb">Анализ данных сервиса аренды самокатов</a></td>
+	<td><tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Matplotlib</tt>, <tt>Scipy</tt></td>
+	<td>На основе информации, собранной популярным сервисом аренды самокатов "GoFast" о некоторых пользователях из нескольких городов, а также об их поездках провести подготовку и  анализ данных для проверки гипотез, которые могут помочь бизнесу вырасти.</td>
+      </tr>
     </table>
 </details>
 
