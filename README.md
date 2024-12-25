@@ -54,8 +54,8 @@
       <tr>
   	<td>1</td>
     	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/01_Analytics/01_yandex_music_big_city_music.ipynb">Яндекс.Музыка</a></td>
-	<td><tt>Pandas</tt></td>
-	<td>Сравнение пользователей <a href = "https://music.yandex.ru/">Яндекс Музыка</a> из Москвы и Петербурга. Проверка сформулированных гипотез.</td>
+	<td><tt>Pandas</tt>, <tt>Python</tt></td>
+	<td>На реальных данных <a href = "https://music.yandex.ru/">Яндекс Музыка</a> проверить данные и сравнить поведение и предпочтения пользователей двух столиц — Москвы и Санкт-Петербурга. Проверка сформулированных гипотез.</td>
       </tr>
     </table>
 </details>
