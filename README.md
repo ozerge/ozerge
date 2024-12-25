@@ -54,9 +54,16 @@
       <tr>
   	<td>1</td>
     	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/01_Analytics/01_yandex_music_big_city_music.ipynb">Яндекс.Музыка</a></td>
-	<td><tt>Pandas</tt>, <tt>Python</tt></td>
+	<td><tt>Python</tt>, <tt>Pandas</tt></td>
 	<td>На реальных данных <a href = "https://music.yandex.ru/">Яндекс Музыка</a> проверить данные и сравнить поведение и предпочтения пользователей двух столиц — Москвы и Санкт-Петербурга. Проверка сформулированных гипотез.</td>
       </tr>
+      <tr>
+	<td>2</td>
+	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/01_Analytics/02_credit_scoring.ipynb">Исследование надежности заемщиков</a></td>
+	<td><tt>Python</tt>, <tt>Pandas</tt></td>
+	<td>Заказчик — кредитный отдел банка. Разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов..</td>
+      </tr>
+	    
     </table>
 </details>
 
