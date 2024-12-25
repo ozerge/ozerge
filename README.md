@@ -59,17 +59,22 @@
       </tr>
       <tr>
 	<td>2</td>
-	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/01_Analytics/02_credit_scoring.ipynb">Анализ банковских данных - исследование надежности заемщиков</a></td>
+	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/01_Analytics/02_credit_scoring.ipynb">Исследование надежности заемщиков - анализ банковских данных</a></td>
 	<td><tt>Python</tt>, <tt>Pandas</tt></td>
 	<td>Заказчик — кредитный отдел банка. На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок.</td>
       </tr>
       <tr>
   	<td>3</td>
-    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/01_Analytics/03_real_estate_mrkt_research.ipynb">Анализ рынка недвижимости - продажа квартир в Санкт-Петербурге</a></td>
+    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/01_Analytics/03_real_estate_mrkt_research.ipynb">Продажа квартир в Санкт-Петербурге - анализ рынка недвижимости</a></td>
   	<td><tt>Python</tt>, <tt>Pandas</tt>, <tt>Matplotlib</tt></tt></td>
   	<td>Необходимо научиться определять рыночную стоимость объектов недвижимости, и выявить параметры, которые на это влияют. Это позволит построить автоматизированную систему отслеживания аномалий и мошеннической деятельности для сервиса <a href = "https://realty.ya.ru/sankt-peterburg_i_leningradskaya_oblast/">Яндекс Недвижимость</a>.</td>
       </tr>
-	    
+      <tr>
+	<td>4</td>
+	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/01_Analytics/04_cinema_distribution_research.ipynb">Исследование рынка российского кинопроката</a></td>
+	<td><tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Matplotlib</tt>, <tt>Seaborn</tt></td>
+	<td>Изучить рынок российского кинопроката и выявить текущие тренды. Также отдельно проанализировать информацию по фильмам, которые получили государственную поддержку и ответить на вопрос, насколько такие фильмы интересны зрителю.</td>
+      </tr>    
     </table>
 </details>
 
