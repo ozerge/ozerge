@@ -125,7 +125,7 @@
       </tr>
       <tr>
   	<td>12</td>
-    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/11_personal_info_encryption.ipynb">Прогнозирование рыночной стоимости автомобилей</a></td>
+    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/12_car_price_boosting.ipynb">Прогнозирование рыночной стоимости автомобилей</a></td>
 	<td><tt>Задача регрессии:   </tt><tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Phik</tt>, <tt>CatBoost</tt>, <tt>LightGBM</tt></td>
 	<td>Разработка системы рекомендации стоимости автомобиля на основе его описания и выявление лучшей модели для предсказания стоимости.</td>
       </tr>
