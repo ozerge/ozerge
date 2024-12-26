@@ -92,7 +92,7 @@
         <th>Название проекта</th>
 	<th>Библиотеки/Инструменты</th>
   	<th>Описание</th>
-      </tr> 
+      </tr>
       <tr>
   	<td>6</td>
     	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/06_tariff_recommendation.ipynb">Рекомендация тарифов для клиентов телеком-компании</a></td>
@@ -122,6 +122,30 @@
     	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/10_spark_real_estate.ipynb">Предсказание стоимости жилья</a></td>
 	<td><tt>Задача регрессии:   </tt><tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>PySpark</tt></td>
 	<td>Oбучить модель линейной регрессии на данных о жилье в Калифорнии в 1990 году. На основе данных нужно предсказать медианную стоимость дома в жилом массиве. Для оценки качества модели будут использованы метрики RMSE, MAE и R2, а также оценить важность категориальных данных в оценке качества модели.</td>
+      </tr>
+      <tr>
+  	<td>12</td>
+    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/11_personal_info_encryption.ipynb">Прогнозирование рыночной стоимости автомобилей</a></td>
+	<td><tt>Задача регрессии:   </tt><tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Phik</tt>, <tt>CatBoost</tt>, <tt>LightGBM</tt></td>
+	<td>Разработка системы рекомендации стоимости автомобиля на основе его описания и выявление лучшей модели для предсказания стоимости.</td>
+      </tr>
+    </table>
+</details>
+
+<details close>
+  <summary>Защита персональных данных</summary>
+    <table>
+      <tr>
+  	<th>№</th>
+        <th>Название проекта</th>
+	<th>Библиотеки/Инструменты</th>
+  	<th>Описание</th>
+      </tr>
+      <tr>
+	<td>11</td>
+    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/11_personal_info_encryption.ipynb">Защита персональных данных клиентов</a></td>
+	<td><tt>Задача регрессии:   </tt><tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt></td>
+	<td>Разработать метод преобразования данных, чтобы при преобразовании качество моделей машинного обучения не ухудшилось.</td>
       </tr>
     </table>
 </details>
