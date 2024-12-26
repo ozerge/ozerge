@@ -101,14 +101,14 @@
       </tr>
       <tr>
 	<td>2</td>
-	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/01_Analytics/02_credit_scoring.ipynb">Исследование надежности заемщиков - анализ банковских данных</a></td>
-	<td><tt>Python</tt>, <tt>Pandas</tt></td>
-	<td>Заказчик — кредитный отдел банка. На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок.</td>
+	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/07_bank_custumer_churn.ipynb">Прогнозирование оттока клиентов банка</a></td>
+	<td><tt>Задача классификации:</tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Scikit-learn</tt></td>
+	<td>По предоставленным историческим данным о поведении клиентов и расторжении договоров с банком нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Задача - построить модель с предельно большим значением F1-меры, не ниже 0.59. и выявить лучший метод для устранения дисбаланса классов.</td>
       </tr>
       <tr>
   	<td>3</td>
     	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/01_Analytics/03_real_estate_mrkt_research.ipynb">Продажа квартир в Санкт-Петербурге - анализ рынка недвижимости</a></td>
-  	<td><tt>Python</tt>, <tt>Pandas</tt>, <tt>Matplotlib</tt></tt></td>
+  	<td><tt>Задача классификации:</tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Scikit-learn</tt></td>
   	<td>Необходимо научиться определять рыночную стоимость объектов недвижимости, и выявить параметры, которые на это влияют. Это позволит построить автоматизированную систему отслеживания аномалий и мошеннической деятельности для сервиса <a href = "https://realty.ya.ru/sankt-peterburg_i_leningradskaya_oblast/">Яндекс Недвижимость</a>.</td>
       </tr>
       <tr>
