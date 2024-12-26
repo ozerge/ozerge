@@ -126,7 +126,7 @@
       <tr>
   	<td>12</td>
     	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/12_car_price_boosting.ipynb">Прогнозирование рыночной стоимости автомобилей</a></td>
-	<td><tt>Задача регрессии:   </tt><tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Phik</tt>, <tt>CatBoost</tt>, <tt>LightGBM</tt></td>
+	<td><tt>Задача регрессии:   </tt><tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Phik</tt>, <tt>Scikit-learn</tt>, <tt>CatBoost</tt>, <tt>LightGBM</tt></td>
 	<td>Разработка системы рекомендации стоимости автомобиля на основе его описания и выявление лучшей модели для предсказания стоимости.</td>
       </tr>
     </table>
@@ -144,7 +144,7 @@
       <tr>
 	<td>11</td>
     	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/11_personal_info_encryption.ipynb">Защита персональных данных клиентов</a></td>
-	<td><tt>Задача регрессии:   </tt><tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt></td>
+	<td><tt>Задача регрессии:   </tt><tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Scikit-learn</tt></td>
 	<td>Разработать метод преобразования данных, чтобы при преобразовании качество моделей машинного обучения не ухудшилось.</td>
       </tr>
     </table>
