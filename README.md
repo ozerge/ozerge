@@ -120,7 +120,7 @@
       <tr>
   	<td>10</td>
     	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/10_spark_real_estate.ipynb">Предсказание стоимости жилья</a></td>
-	<td><tt>Задача регрессии:</tt><tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>PySpark</tt></td>
+	<td><tt>Задача регрессии:   </tt><tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>PySpark</tt></td>
 	<td>Oбучить модель линейной регрессии на данных о жилье в Калифорнии в 1990 году. На основе данных нужно предсказать медианную стоимость дома в жилом массиве. Для оценки качества модели будут использованы метрики RMSE, MAE и R2, а также оценить важность категориальных данных в оценке качества модели.</td>
       </tr>
     </table>
