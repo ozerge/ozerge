@@ -96,44 +96,50 @@
       <tr>
   	<td>6</td>
     	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/06_tariff_recommendation.ipynb">Рекомендация тарифов для клиентов телеком-компании</a></td>
-	<td><tt>Задача классификации:           </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Scikit-learn</tt></td>
+	<td><tt>Задача классификации:         </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Scikit-learn</tt></td>
 	<td>Задача состоит в построении системы, способной проанализировать поведение клиентов - пользователей архивных тарифов и предложить пользователям новый тариф. Требуется построить модель для задачи классификации, которая выберет подходящий тариф с максимально большим значением accuracy.</td>
       </tr>
       <tr>
 	<td>7</td>
 	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/07_bank_custumer_churn.ipynb">Прогнозирование оттока клиентов банка</a></td>
-	<td><tt>Задача классификации:           </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Scikit-learn</tt></td>
+	<td><tt>Задача классификации:         </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Scikit-learn</tt></td>
 	<td>По предоставленным историческим данным о поведении клиентов и расторжении договоров с банком нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Задача - построить модель с предельно большим значением F1-меры, не ниже 0.59. и выявить лучший метод для устранения дисбаланса классов.</td>
       </tr>
       <tr>
   	<td>8</td>
     	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/08_best_oilfield_location.ipynb">Выбор локации для нефтяной скважины</a></td>
-  	<td><tt>Задача регрессии, bootstrap:    </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Scipy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Scikit-learn</tt></td>
+  	<td><tt>Задача регрессии, bootstrap:  </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Scipy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Scikit-learn</tt></td>
   	<td>На основе данных георазведки определить оптимальное нефтяное месторождение для разработки.</a>.</td>
       </tr>
       <tr>
 	<td>9</td>
 	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/09_booking_cancel_pred.ipynb">Прогнозирование оттока клиентов в сети отелей</a></td>
-	<td><tt>Задача классификации:           </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Scikit-learn</tt></td>
+	<td><tt>Задача классификации:         </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Scikit-learn</tt></td>
 	<td>Разработать систему, которая предсказывает отказ от брони. Если модель покажет, что бронь будет отменена, то клиенту предлагается внести депозит - деньги будут списаны со счёта клиента, если он всё же отменит бронь. Выявить лучшую модель для решения задачи.</td>
       </tr>
       <tr>
   	<td>10</td>
     	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/10_spark_real_estate.ipynb">Предсказание стоимости жилья</a></td>
-	<td><tt>Задача регрессии:               </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>PySpark</tt></td>
+	<td><tt>Задача регрессии:             </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>PySpark</tt></td>
 	<td>Oбучить модель линейной регрессии на данных о жилье в Калифорнии в 1990 году. На основе данных нужно предсказать медианную стоимость дома в жилом массиве. Для оценки качества модели будут использованы метрики RMSE, MAE и R2, а также оценить важность категориальных данных в оценке качества модели.</td>
       </tr>
       <tr>
   	<td>12</td>
     	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/12_car_price_boosting.ipynb">Прогнозирование рыночной стоимости автомобилей</a></td>
-	<td><tt>Задача регрессии:               </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Phik</tt>, <tt>Scikit-learn</tt>, <tt>CatBoost</tt>, <tt>LightGBM</tt></td>
+	<td><tt>Задача регрессии:             </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Phik</tt>, <tt>Scikit-learn</tt>, <tt>CatBoost</tt>, <tt>LightGBM</tt></td>
 	<td>Разработка системы рекомендации стоимости автомобиля на основе его описания и выявление лучшей модели для предсказания стоимости.</td>
       </tr>
       <tr>
   	<td>14</td>
     	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/14_car_accident_risk.ipynb">Разработка системы предупреждения аварий для каршеринговой компании</a></td>
-	<td><tt>Задача классификации:           </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Shap</tt>, <tt>SQL</tt>, <tt>PosgreSQL</tt>, <tt>SQLAlchemy</tt>,   <tt>Scikit-learn</tt>, <tt>CatBoost</tt>, <tt>LightGBM</tt></td>
+	<td><tt>Задача классификации:         </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Shap</tt>, <tt>SQL</tt>, <tt>PosgreSQL</tt>, <tt>SQLAlchemy</tt>,   <tt>Scikit-learn</tt>, <tt>CatBoost</tt>, <tt>LightGBM</tt></td>
 	<td>Задача - понять, возможно ли предсказывать риск ДТП по выбранному маршруту движения, опираясь на исторические данные. Под риском понимается вероятность ДТП с любым повреждением транспортного средства.</td>
+      </tr>
+      <tr>
+  	<td>19</td>
+    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/19_Final_indastry_temp_pred/19_Final_indastry_temp_pred.ipynb">Оптимизация производственных расходов металлургического комбината</a></td>
+	<td><tt>Задача регрессии:             </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Shap</tt>, <tt>SQL</tt>, <tt>PyTorch</tt>, <tt>Scikit-learn</tt>, <tt>CatBoost</tt>, <tt>LightGBM</tt></td>
+	<td>Для оптимизации производственных расходов, металлургический комбинат решил уменьшить потребление электроэнергии на этапе обработки стали. Необходимо построить модель, которая предскажет температуру стали</td>
       </tr>
     </table>
 </details>
