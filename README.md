@@ -234,7 +234,7 @@
       <tr>
 	<td>18</td>
     	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/07_CV/18_photo_search.ipynb">Поиск изображения по запросу</a></td>
-	<td><tt>Задача регрессии:        </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Matplotlib</tt>, <tt>Scikit-learn</tt>, <tt>CatBoost</tt>, <tt>BERT</tt>, <tt>nltk</tt></td> <tt>Keras</tt></td>
+	<td><tt>Задача регрессии:        </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Matplotlib</tt>, <tt>Scikit-learn</tt>, <tt>CatBoost</tt>, <tt>BERT</tt>, <tt>nltk</tt></td>, <tt>Keras</tt>, <tt>CLIP</tt></td>
 	<td>Задача - разработать демонстрационную версию поиска изображений по запросу. Для демонстрационной версии нужно обучить модель, которая получит векторное представление изображения, векторное представление текста, а на выходе выдаст число от 0 до 1 — покажет, насколько текст и картинка подходят друг другу.</td> 
       </tr>
     </table>
