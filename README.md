@@ -173,3 +173,21 @@
       </tr>
     </table>
 </details>
+
+<details close>
+  <summary>Временные ряды</summary>
+    <table>
+      <tr>
+  	<th>№</th>
+        <th>Название проекта</th>
+	<th>Библиотеки/Инструменты</th>
+  	<th>Описание</th>
+      </tr>
+      <tr>
+	<td>15</td>
+    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/05_Time_series/15_taxi_order_pred.ipynb">Прогнозирование заказов такси</a></td>
+	<td><tt>Задача регрессии:                </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Statsmodels</tt>, <tt>Shap</tt>, <tt>Scikit-learn</tt>, <tt>CatBoost</tt>, <tt>LightGBM</tt></td>
+	<td>Спрогнозировать количество заказов такси на следующий час. Построить модель для такого предсказания. </td> 
+      </tr>
+    </table>
+</details>
