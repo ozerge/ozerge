@@ -108,7 +108,7 @@
       <tr>
   	<td>8</td>
     	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/08_best_oilfield_location.ipynb">Выбор локации для нефтяной скважины</a></td>
-  	<td><tt>Задача регрессии, bootstrap:  </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Scipy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Scikit-learn</tt></td>
+  	<td><tt>Задача регрессии, bootstrap:</tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Scipy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Scikit-learn</tt></td>
   	<td>На основе данных георазведки определить оптимальное нефтяное месторождение для разработки.</a>.</td>
       </tr>
       <tr>
