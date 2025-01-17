@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет всем! 👋
 
 - :book: Завершил курсы по Data Science+ от [Яндекс Практикум](https://practicum.yandex.ru/data-scientist-plus/?utm_source=partners&utm_medium=ratingoff&utm_campaign=partners_ratingoff_data-scientist-plus)
 
