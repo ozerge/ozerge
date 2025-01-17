@@ -1,5 +1,12 @@
 ## Привет всем! 👋
 
+- ➡️ Телеграм: **https://t.me/ozerge**
+
+- 📫 Почта: **ozerge@yandex.ru**
+
+- 📄 Резюме:
+---
+
 - :book: Завершил курсы по Data Science+ от [Яндекс Практикум](https://practicum.yandex.ru/data-scientist-plus/?utm_source=partners&utm_medium=ratingoff&utm_campaign=partners_ratingoff_data-scientist-plus)
 
 <h3 align="left">Основные навыки:</h3>
