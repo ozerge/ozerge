@@ -224,7 +224,7 @@
 </details>
 
 <details close>
-  <summary>Машинное зрение</summary>
+  <summary>Компьютерное зрение</summary>
     <table>
       <tr>
   	<th>№</th>
