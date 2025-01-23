@@ -4,7 +4,7 @@
 
 - 📫 Почта: **ozerge@yandex.ru**
 
-- 📄 Резюме:
+- 📄 Резюме: **https://hh.ru/resume/0c9a3eb2ff0e4011e60039ed1f69664a68354f**
 ---
 
 - :book: Завершил курсы по Data Science+ от [Яндекс Практикум](https://practicum.yandex.ru/data-scientist-plus/?utm_source=partners&utm_medium=ratingoff&utm_campaign=partners_ratingoff_data-scientist-plus)
