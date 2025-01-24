@@ -102,7 +102,7 @@
       </tr>
       <tr>
   	<td>6</td>
-    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/06_tariff_recommendation.ipynb">Рекомендация тарифов для клиентов телеком-компании</a></td>
+    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/03_Machine_learning/06_tariff_recommendation">Рекомендация тарифов для клиентов телеком-компании</a></td>
 	<td><tt>Задача классификации:       </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Scikit-learn</tt></td>
 	<td>Задача состоит в построении системы, способной проанализировать поведение клиентов - пользователей архивных тарифов и предложить пользователям новый тариф. Требуется построить модель для задачи классификации, которая выберет подходящий тариф с максимально большим значением accuracy.</td>
       </tr>
