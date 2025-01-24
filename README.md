@@ -180,7 +180,7 @@
       </tr>
       <tr>
 	<td>13</td>
-    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/04_Neural_networks/13_star_temperature_pred">Прогнозирование температуры звезды</a></td>
+    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/04_Neural_networks">Прогнозирование температуры звезды</a></td>
 	<td><tt>Задача регрессии:                </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>,<tt>Matplotlib</tt>, <tt>Plotly</tt>, <tt>Phik</tt>, <tt>Scikit-learn</tt>,  <tt>PyTorch</tt></td>
 	<td>На основе косвенных данных построить модель оценки температуры на поверхности звезды, а также попробовать улучшить базовую модель с помощью обучения батчами и регуляризации с dropout.</td> 
       </tr>
@@ -198,7 +198,7 @@
       </tr>
       <tr>
 	<td>15</td>
-    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/05_Time_series/15_taxi_order_pred">Прогнозирование заказов такси</a></td>
+    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/05_Time_series">Прогнозирование заказов такси</a></td>
 	<td><tt>Задача регрессии:                        </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Statsmodels</tt>, <tt>Shap</tt>, <tt>Scikit-learn</tt>, <tt>CatBoost</tt>, <tt>LightGBM</tt></td>
 	<td>Спрогнозировать количество заказов такси на следующий час. Построить модель для такого предсказания. </td> 
       </tr>
@@ -216,7 +216,7 @@
       </tr>
       <tr>
 	<td>16</td>
-    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/06_NLP/16_toxic_comments_bert">Обучение модели классификации комментариев</a></td>
+    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/06_NLP">Обучение модели классификации комментариев</a></td>
 	<td><tt>Задача классификации:                    </tt> <tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Scikit-learn</tt>, <tt>CatBoost</tt>, <tt>LightGBM</tt>, <tt>BERT</tt>, <tt>nltk</tt></td>
 	<td>На основе набора данных с разметкой о токсичности правок обучить модель классифицировать комментарии на позитивные и негативные </td> 
       </tr>
